@@ -1,0 +1,44 @@
+_repo: The-First-Captureor-Hauling-Down-the-Flag-of-England_42113
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42113-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Fosdick, Charles Austin
+    - Castlemon, Henry
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: ''
+gutenberg_issued: '2013-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'Ship captains -- Juvenile fiction'
+- !lcsh 'Husband and wife -- Juvenile fiction'
+- !lcsh 'Lexington, Battle of, Lexington, Mass., 1775 -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Machias (Me.) -- History -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Mothers and sons -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'War stories'
+- !lcsh 'Sailors -- Juvenile fiction'
+title: The First Capture; or, Hauling Down the Flag of England
+url: http://www.gutenberg.org/ebooks/42113
